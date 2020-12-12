@@ -1,0 +1,45 @@
+.box {
+    width: 100%;
+    max-width: 500px;
+    height: 500px;
+    border: 2px solid #000000;
+    position: relative;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    background-color: #faa;
+    position: static;
+    bottom: 10px;
+}
+
+
+/* .item {
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    background-color: #faa;
+    position: fixed;
+    right: 20px;
+    top: 50px;
+}
+/* 
+.side {
+    width: 50%;
+}
+
+.sticky {
+    position: sticky;
+    float: right;
+    top: 0;
+    width: 50%;
+}
+
+.sticky h2 {
+    color: #223485;
+    border: 2px solid #ff00aa;
+    padding: 10px;
+    position: sticky;
+} */

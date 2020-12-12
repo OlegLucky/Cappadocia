@@ -1,0 +1,6 @@
+Position:
+Relivant
+Absolute
+Fixed
+Stustic
+Sticky
